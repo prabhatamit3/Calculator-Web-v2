@@ -1,2 +1,2 @@
-# Calculator-Web-v2
-Calculator with multiple operations
+# Calculator Web
+ A Simple Calculator based on HTML,CSS,JS only
